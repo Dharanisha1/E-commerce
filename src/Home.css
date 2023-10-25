@@ -1,0 +1,19 @@
+.home{
+    /* background-color: aqua; */
+    max-width: 1200px;
+    margin:  0 auto;
+    padding: 135px 140px;
+    height: 410px;
+    position: static;
+
+}
+/* button{
+    color: hotpink;
+   
+} */
+h1{
+    color: orchid;
+    margin-top: -120px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+

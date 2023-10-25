@@ -1,0 +1,17 @@
+.about{
+    /* background-color: aqua; */
+    max-width: 1200px;
+    margin:  0 auto;
+    padding: 135px 140px;
+    height: 410px;
+    position: static;
+
+}
+.about>p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin-bottom: -200px;
+}
+.ab{
+    margin-top: -60px;
+}
